@@ -1,6 +1,6 @@
 ### Hello, I'm **F3kri** ! 👋
 
-![F3kri_](https://img.shields.io/badge/F3kri_-958507)
+![F3kri_](https://img.shields.io/badge/F3kri_-35b401)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VotreNomUtilisateur&color=blueviolet)
 
